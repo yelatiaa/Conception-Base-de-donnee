@@ -1,0 +1,5 @@
+Pour compiler le programme -> make compile
+Pour exécuter le programme -> make run
+
+Le fichier tables.sql crée la structure des tables de la base de donnée.
+Le fichier populate.sql y ajoute des données de base pour créer des salles de vente, des ventes et pour faire des offres.
